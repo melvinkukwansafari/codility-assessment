@@ -12,7 +12,7 @@ console.log(result); // Output: "5 is greater than 4"
 result = compareNumbers(-4, -7);
 console.log(result); // Output: "-4 is greater than -7"
 
-compareNumbers(2, 2) 
+compareNumbers(2, 2);
 
 
   
